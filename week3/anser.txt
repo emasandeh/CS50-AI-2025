@@ -1,0 +1,8 @@
+sort1:
+This program uses selection sort. It identifies the smallest element in the unsorted portion of the list and moves it to the correct position in the sorted portion. This process is repeated for all elements, resulting in a time complexity of O(n^2). Observing the runtime pattern on small datasets confirmed this behavior.
+
+sort2:
+This program uses bubble sort. It compares adjacent elements repeatedly and swaps them if they are in the wrong order. Multiple passes over the list occur until no swaps are needed, indicating the list is sorted. The runtime pattern for bubble sort, characterized by slow performance on large datasets, was observed during testing.
+
+sort3:
+This program uses merge sort. It recursively divides the list into smaller sublists, sorts them, and then merges them back together in sorted order. The time complexity is O(n log n). Observing the runtime pattern and the recursive behavior of the algorithm confirmed this sorting method.
