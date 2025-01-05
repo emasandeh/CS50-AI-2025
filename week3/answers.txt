@@ -1,8 +1,8 @@
-sort1: Selection Sort
-Explanation: Based on my analysis of the running time, sort1 showed a quadratic time complexity (O(n²)) when sorting large input files, which is characteristic of selection sort. The program also swapped elements multiple times, confirming this algorithm.
+sort1: Bubble Sort
+Explanation: Based on my analysis of the time complexity and behavior of the program, sort1 exhibited the characteristic behavior of bubble sort, with frequent adjacent swaps and slower performance for large inputs.
 
-sort2: Merge Sort
-Explanation: sort2 was much faster on larger inputs (O(n log n) time complexity) compared to the others. It also seemed to divide the list into smaller sections and merge them back, which is typical of merge sort.
+sort2: Selection Sort
+Explanation: sort2 exhibited a slower performance with larger inputs, and it showed the typical behavior of selection sort, where each element is swapped only once during each pass through the list.
 
-sort3: Bubble Sort
-Explanation: sort3 exhibited a behavior of repeatedly comparing and swapping adjacent elements. This suggests a bubble sort algorithm, which is known for this type of operation.
+sort3: Merge Sort
+Explanation: sort3 performed efficiently with large inputs, showing a divide-and-conquer approach by repeatedly splitting the list into smaller sublists and merging them back together, which is typical of merge sort.
