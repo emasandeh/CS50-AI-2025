@@ -1,6 +1,6 @@
 # Voice Bot App
 
-#### Video Demo: [https://youtu.be/Bstsw3LuMa0]
+#### Video Demo: [https://www.youtube.com/watch?v=Bstsw3LuMa0]
 
 #### Description:
 The Voice Bot App is an intelligent assistant designed to process voice commands and perform tasks, making everyday activities more efficient and interactive. It leverages cutting-edge natural language processing (NLP) and speech recognition technologies to understand user inputs and respond effectively. The app is aimed at providing a seamless user experience with a focus on accessibility and convenience.
